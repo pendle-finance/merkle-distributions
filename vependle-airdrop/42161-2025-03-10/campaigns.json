@@ -1,0 +1,49 @@
+{
+    "merkleRoot": "0x584b5b15c989d3266bcf878ec1603352a5cb458da8521024cd80de3da2f09d15",
+    "parentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "chainId": 42161,
+    "distributions": [
+        {
+            "token": "0x4439fe47139be8b9b13635c142569c3e60d71259",
+            "description": "Random LP reward 0",
+            "fromTimestamp": 1741594500,
+            "toTimestamp": 1741594502,
+            "extInfo": {
+                "assetId": "42161-0x9ff912568eb011d719b5f4e940f8135633f4bcdc"
+            },
+            "sumAmount": "40000000000000000",
+            "users": {
+                "0xf7ae4ec5f1f5813fba503dd98fc42633faff6c2e": "10000000000000000",
+                "0xeba675f1d0fe4c00e179c1f224b8b18dd476e76a": "30000000000000000"
+            }
+        },
+        {
+            "token": "0x4c43f75f34bf34d3db3fc3841845d2b69a5eb6a3",
+            "description": "Random LP reward 1",
+            "fromTimestamp": 1741594500,
+            "toTimestamp": 1741594502,
+            "extInfo": {
+                "assetId": "42161-0xd0fdb5ee558b3bcd9e5bc1344b28b2249de6559c"
+            },
+            "sumAmount": "80000000000000000",
+            "users": {
+                "0xf7ae4ec5f1f5813fba503dd98fc42633faff6c2e": "20000000000000000",
+                "0xeba675f1d0fe4c00e179c1f224b8b18dd476e76a": "60000000000000000"
+            }
+        },
+        {
+            "token": "0xad853eb4fb3fe4a66cdfcd7b75922a0494955292",
+            "description": "Random LP reward 2",
+            "fromTimestamp": 1741594500,
+            "toTimestamp": 1741594502,
+            "extInfo": {
+                "assetId": "42161-0xbf5e60ddf654085f80dae9dd33ec0e345773e1f8"
+            },
+            "sumAmount": "120000000000000000",
+            "users": {
+                "0xf7ae4ec5f1f5813fba503dd98fc42633faff6c2e": "30000000000000000",
+                "0xeba675f1d0fe4c00e179c1f224b8b18dd476e76a": "90000000000000000"
+            }
+        }
+    ]
+}

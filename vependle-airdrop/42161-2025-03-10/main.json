@@ -1,0 +1,44 @@
+{
+    "merkleRoot": "0x584b5b15c989d3266bcf878ec1603352a5cb458da8521024cd80de3da2f09d15",
+    "rawUserLeaves": [
+        "0x07493ed5e04c51cb97ad5f636fcb18f03b1aee9bea62fe4c865f4790456d587b",
+        "0x21f64e4fb05b3271fcfb35760665e9b8e01281e970f7f5a15b9e90f498e8b8a2",
+        "0x8b0bb52e7c5cb7cfb199a95e5dbf98e9a4ce77487ec0912dbe0baa3cb6c00fab",
+        "0x986287fedbd698d04f3e442d17afe6bf0d883414b29b67dbc2a0e1971598d1db",
+        "0xc560ef54d81aa4333512c4633d6c502737018e9615f2a338d4ab958b168c11ee",
+        "0xd58f20b01f7cce49d4251426de1950540629d6ead5db5859ef186256083ad522"
+    ],
+    "distributionDatas": {
+        "0x4439fe47139be8b9b13635c142569c3e60d71259": {
+            "0xf7ae4ec5f1f5813fba503dd98fc42633faff6c2e": {
+                "a": "10000000000000000",
+                "l": "0x21f64e4fb05b3271fcfb35760665e9b8e01281e970f7f5a15b9e90f498e8b8a2"
+            },
+            "0xeba675f1d0fe4c00e179c1f224b8b18dd476e76a": {
+                "a": "30000000000000000",
+                "l": "0x07493ed5e04c51cb97ad5f636fcb18f03b1aee9bea62fe4c865f4790456d587b"
+            }
+        },
+        "0x4c43f75f34bf34d3db3fc3841845d2b69a5eb6a3": {
+            "0xf7ae4ec5f1f5813fba503dd98fc42633faff6c2e": {
+                "a": "20000000000000000",
+                "l": "0xc560ef54d81aa4333512c4633d6c502737018e9615f2a338d4ab958b168c11ee"
+            },
+            "0xeba675f1d0fe4c00e179c1f224b8b18dd476e76a": {
+                "a": "60000000000000000",
+                "l": "0x986287fedbd698d04f3e442d17afe6bf0d883414b29b67dbc2a0e1971598d1db"
+            }
+        },
+        "0xad853eb4fb3fe4a66cdfcd7b75922a0494955292": {
+            "0xf7ae4ec5f1f5813fba503dd98fc42633faff6c2e": {
+                "a": "30000000000000000",
+                "l": "0xd58f20b01f7cce49d4251426de1950540629d6ead5db5859ef186256083ad522"
+            },
+            "0xeba675f1d0fe4c00e179c1f224b8b18dd476e76a": {
+                "a": "90000000000000000",
+                "l": "0x8b0bb52e7c5cb7cfb199a95e5dbf98e9a4ce77487ec0912dbe0baa3cb6c00fab"
+            }
+        }
+    },
+    "chainId": 42161
+}
