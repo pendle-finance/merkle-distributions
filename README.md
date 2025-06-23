@@ -6,7 +6,7 @@ This repository contains the merkle distributions for the different rewards.
 
 The repository is organized as follows:
 
-- `external-rewards`: contains the merkle distributions of additional off-chain rewards for some pools. Example, pool [aUSDC](https://app.pendle.finance/trade/markets/0x3f5ea53d1160177445b1898afbb16da111182418/swap?view=pt&chain=sonic&chart=apy) in sonic has an additional off-chain reward, can be found [here](/external-rewards/146-2025-05-20/)
+- `external-rewards`: contains the merkle distributions of additional off-chain rewards for some pools. Example, pool [aUSDC](https://app.pendle.finance/trade/markets/0x3f5ea53d1160177445b1898afbb16da111182418/swap?view=pt&chain=sonic&chart=apy) in sonic has an additional off-chain reward, can be found [here](/external-rewards/146/)
 - `vependle-airdrop`: Additional airdrop for locking vePENDLE.
 - `vependle`: Fee rewards for locking vePENDLE
 
