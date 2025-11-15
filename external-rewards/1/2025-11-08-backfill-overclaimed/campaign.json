@@ -1,0 +1,58 @@
+{
+  "chainId": 1,
+  "merkleRoot": "0x005c94d5a9f15e741ef9878bfc39ca6794af8a368abf312bcf7a10bd9701d24d",
+  "parentRoot": "0x804ffafee23a85f48479642768c45af1317e7ab032475e3f2d56ef7992d1b590",
+  "distributions": [
+    {
+      "description": "Backfill overclaimed amounts for ETH sGHO with market: ETH fUSDT 2025Jun at 1762594783",
+      "users": {
+        "0x7fde637d685a5486ccb1b0a8ef658ad1a08e8337": "132011694910324560336",
+        "0xc4259b429a2df233ae30ec141e5889e62029f83d": "2277624365474939604"
+      },
+      "extInfo": {
+        "assetId": "1-0x8e1c2be682b0d3d8f8ee32024455a34cc724cf08"
+      },
+      "fromTimestamp": 1762594783,
+      "toTimestamp": 1762594783,
+      "sumAmount": "134289319275799499940",
+      "token": "0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d"
+    },
+    {
+      "description": "Backfill overclaimed amounts for ETH FLUID with market: ETH fGHO 2025Dec at 1762594783",
+      "users": {
+        "0xc693b4ffb338579467a541b2bf267b1955870920": "49807967251320775716",
+        "0x41bc7d0687e6cea57fa26da78379dfdc5627c56d": "277873382125162096518",
+        "0x3acbc3da05a0fab1be6dcf370c5a104d1e3c78d3": "43404290217189163000",
+        "0x063608d16d09e48e46329d6bf833cd31dc341030": "84782422135463330955",
+        "0x743d7b30661d65b41960bf6b5d1bb93cf7972a73": "13128377019746627118",
+        "0x8eb0c55e0c1536182db91f699fc85c923283fd0e": "22324978935272025880",
+        "0xe82b9d822e845f55b3f666a30e679e22aeee85eb": "141503954208571522744",
+        "0xb5c13b39042b7c57e2a026feebc9b4fddf487eb6": "3038284207324185387",
+        "0x43d0c5ac03767ecbde8a489773e3b45e8b98403a": "1608907322710909221",
+        "0xc39aa951f7706f2cbcae6617534904efb6dc74b8": "67594958849210063852",
+        "0x4f50b5aec2e3d4fb0a3e0f1f93621a90210597ee": "12484786587010467576"
+      },
+      "extInfo": {
+        "assetId": "1-0x1821ec9c2d2c13f6b89d21301b93bd8d6667712b"
+      },
+      "fromTimestamp": 1762594783,
+      "toTimestamp": 1762594783,
+      "sumAmount": "717552308858981167967",
+      "token": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb"
+    },
+    {
+      "description": "Backfill overclaimed amounts for ETH CORN with market: ETH uniBTC (Corn Concrete) 2025May at 1762594783",
+      "users": {
+        "0x2ed29adc8fb15d93fa13a11d3d688d00fbb56e8d": "3654163782647017794",
+        "0xaa19a68709bbd7f36c0c4b9ce5ec4ab1d5951aa8": "11966324790794289808"
+      },
+      "extInfo": {
+        "assetId": "1-0xedda7526ec81055f2af99d51d968fc2fbca9ee96"
+      },
+      "fromTimestamp": 1762594783,
+      "toTimestamp": 1762594783,
+      "sumAmount": "15620488573441307602",
+      "token": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6"
+    }
+  ]
+}
