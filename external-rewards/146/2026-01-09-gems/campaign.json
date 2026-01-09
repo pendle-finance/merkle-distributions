@@ -1,0 +1,20 @@
+{
+  "chainId": 146,
+  "merkleRoot": "0xc16941bf13cee39df785054c1d1c9a02cfd21c99268d1026338838f03e83d8f7",
+  "parentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "distributions": [
+    {
+      "token": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38",
+      "description": "Sonic Gem Airdrop",
+      "fromTimestamp": 1767952087,
+      "toTimestamp": 1767952087,
+      "sumAmount": "50183999999999945643823",
+      "users": {
+        "0xfd5917a1a157eff54decb755cf5c5709bbe44200": "50183999999999945643823"
+      },
+      "extInfo": {
+        "assetId": "146-0x30d30b975025835869541e4fca35ec4964eb992e"
+      }
+    }
+  ]
+}
