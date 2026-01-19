@@ -1,0 +1,18 @@
+{
+  "chainId": 80094,
+  "merkleRoot": "0x330ed29d7c37780f342c171ae71273d9474837ab4f27b443035aaa827fe0f8bc",
+  "parentRoot": "0x05f8f688ca26d98c7c024dc2e28ed21305e6c09c1074e040a179c1cdb3405aa7",
+  "distributions": [
+    {
+      "description": "empty rewards for remapping only",
+      "token": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "fromTimestamp": 1765714510,
+      "toTimestamp": 1765714510,
+      "sumAmount": "0",
+      "users": {},
+      "extInfo": {
+        "assetId": "1-0x0000000000000000000000000000000000000000"
+      }
+    }
+  ]
+}
