@@ -1,0 +1,29 @@
+{
+  "chainId": 1,
+  "merkleRoot": "0xbe3fbe596eac946e9657c4a38a32289113d5943dd328e18502f876896b3c70e2",
+  "parentRoot": "0x1d0304a0a860bf5dc16ad37697120cbaf4e39ad4f2450845c6756103614a3615",
+  "distributions": [
+    {
+      "token": "0x808507121b80c02388fad14726482e061b8da827",
+      "description": "PENDLE Airdrop",
+      "fromTimestamp": 1788134400,
+      "toTimestamp": 1788134400,
+      "sumAmount": "500000000000000000000",
+      "users": {
+        "0xef08c6a47c04764b9c0964e00bd01c3e200707c5": "50000000000000000000",
+        "0x663dbe05f86c03c394b56dc7a22bd11ef0129bc4": "50000000000000000000",
+        "0xe9c0df9bd4607850d410c957fec11ec209de5ef6": "50000000000000000000",
+        "0x645bd077614927ab015dc3fd4aa57d677a879009": "50000000000000000000",
+        "0x8b3c0efc768acfafe55345407fab2f11c0e38326": "50000000000000000000",
+        "0x1c2dcd3bed69a787ccaaffd5fcc242f9b4f1b0bb": "50000000000000000000",
+        "0x43adb31f940864f878176625dd25eefa73ad35a4": "50000000000000000000",
+        "0x130bb779751e7567b1258d0db3bf54165fef8e48": "50000000000000000000",
+        "0x7201fd55eef90391ac5bf3e131b47e5eeb91ee6b": "50000000000000000000",
+        "0x71f12a5b0e60d2ff8a87fd34e7dcff3c10c914b0": "50000000000000000000"
+      },
+      "extInfo": {
+        "title": "PT Looping Feedback Pendle Airdrop"
+      }
+    }
+  ]
+}
