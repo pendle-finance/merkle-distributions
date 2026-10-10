@@ -1,0 +1,90 @@
+{
+  "chainId": 4663,
+  "merkleRoot": "0x1f54e13ba15cab75ab87ae0e54af41a8e122fd0c2419dcc77a233736484b6669",
+  "parentRoot": "0x66cdd8b6fb3aec35e09547a7be5389a70293c34834b36f10e7346e5f80695d4b",
+  "distributions": [
+    {
+      "token": "0xe33322da1380e61e5ae5dfb21e7f62924c73004c",
+      "description": "Orbio Staking Reward (LP + YT) · 1 Oct 2026 00:00 → 8 Oct 2026 00:00 UTC (7 days) · blocks 76,928,655 → 82,878,151 · total 30.4465 CREDIT",
+      "fromTimestamp": 1790812800,
+      "toTimestamp": 1791417600,
+      "sumAmount": "30446589",
+      "users": {
+        "0x77819d746a876b523b0b41d942c1477f248f9137": "11589973",
+        "0x2da008dfdc5468e8762e2c4616c600cf4e600216": "721198",
+        "0xfd5917a1a157eff54decb755cf5c5709bbe44200": "28000",
+        "0xcd54cc88ac8bb4f437937b5dfa9c341570c6169b": "5187",
+        "0xabe0cdd036456fcc1b64d1ddb7aa3bdf7d5b98b1": "16568482",
+        "0x16c567d50a30645d18a507dd098f7dd25af6ca67": "11421",
+        "0xeea6f790f18563e91b18df00b89d9f79b2e6761f": "1522328"
+      },
+      "extInfo": {
+        "assetId": "4663-0x752057e7a63d0a7f15b740d41ef484fdec459ead",
+        "position": "YT",
+        "source": {
+          "mode": "LP_YT"
+        }
+      }
+    },
+    {
+      "token": "0xe33322da1380e61e5ae5dfb21e7f62924c73004c",
+      "description": "Orbio Staking Reward (LP + YT) · 1 Oct 2026 00:00 → 8 Oct 2026 00:00 UTC (7 days) · blocks 76,928,655 → 82,878,151 · total 88.2306 CREDIT",
+      "fromTimestamp": 1790812800,
+      "toTimestamp": 1791417600,
+      "sumAmount": "88230634",
+      "users": {
+        "0xfd5917a1a157eff54decb755cf5c5709bbe44200": "140373",
+        "0xabe0cdd036456fcc1b64d1ddb7aa3bdf7d5b98b1": "83064389",
+        "0x16c567d50a30645d18a507dd098f7dd25af6ca67": "121072",
+        "0x0d3131ec2622dd01771b5980d9501424a1b6d3bd": "4701540",
+        "0x0000000000000000000000000000000000000001": "0",
+        "0x869191325254a82fbc858ab3cad9bf91703da353": "203260"
+      },
+      "extInfo": {
+        "assetId": "4663-0x752057e7a63d0a7f15b740d41ef484fdec459ead",
+        "position": "LP",
+        "source": {
+          "mode": "LP_YT"
+        }
+      }
+    },
+    {
+      "token": "0xe33322da1380e61e5ae5dfb21e7f62924c73004c",
+      "description": "Orbio Staking Reward (LP + YT) · 1 Oct 2026 00:00 → 8 Oct 2026 00:00 UTC (7 days) · blocks 76,928,655 → 82,878,151 · total 0.9697 CREDIT",
+      "fromTimestamp": 1790812800,
+      "toTimestamp": 1791417600,
+      "sumAmount": "969722",
+      "users": {
+        "0xeea6f790f18563e91b18df00b89d9f79b2e6761f": "48487",
+        "0xbf1ddbe65fb6b585374d5140313429f310bafa87": "1494",
+        "0xbcab7ed9e912f88200c1572428a7bfcc463201dd": "919741"
+      },
+      "extInfo": {
+        "assetId": "4663-0x25ee3232421a08f390ef25a34b1d2ccc8394bd05",
+        "position": "YT",
+        "source": {
+          "mode": "LP_YT"
+        }
+      }
+    },
+    {
+      "token": "0xe33322da1380e61e5ae5dfb21e7f62924c73004c",
+      "description": "Orbio Staking Reward (LP + YT) · 1 Oct 2026 00:00 → 8 Oct 2026 00:00 UTC (7 days) · blocks 76,928,655 → 82,878,151 · total 0.4609 CREDIT",
+      "fromTimestamp": 1790812800,
+      "toTimestamp": 1791417600,
+      "sumAmount": "460913",
+      "users": {
+        "0x0000000000000000000000000000000000000001": "0",
+        "0xbf1ddbe65fb6b585374d5140313429f310bafa87": "749",
+        "0xbcab7ed9e912f88200c1572428a7bfcc463201dd": "460164"
+      },
+      "extInfo": {
+        "assetId": "4663-0x25ee3232421a08f390ef25a34b1d2ccc8394bd05",
+        "position": "LP",
+        "source": {
+          "mode": "LP_YT"
+        }
+      }
+    }
+  ]
+}
