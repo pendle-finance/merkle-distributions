@@ -1,0 +1,104 @@
+{
+  "chainId": 143,
+  "merkleRoot": "0xaa02fb6f66a7102b306d4b191ef93b915489e5dc982ea31f8838b652cc3c3ed4",
+  "parentRoot": "0x0b1021ac2731660936eda3461c09b144d2174e110c1bea64740968365520597f",
+  "distributions": [
+    {
+      "token": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "description": "Dynamic Incentive · 1 Oct 2026 06:00 → 8 Oct 2026 00:00 UTC (162 hours) · blocks 109,531,055 → 111,461,338 · total 304.466 AUSD",
+      "fromTimestamp": 1790834446,
+      "toTimestamp": 1791417600,
+      "sumAmount": "304466067",
+      "users": {
+        "0xa9d0eaff48ce1df468f9eaeb7e628c413343f6a2": "18240",
+        "0x9f1a1479191af103ff82fead23e950b6b3b2bd1a": "78160645",
+        "0xbf1ddbe65fb6b585374d5140313429f310bafa87": "89",
+        "0x361042cb65a69efde49bf68ceca58e4f44d6ced1": "7842435",
+        "0x596cdbb0d4b74cb5dcdf86613d8012e0cd3e522f": "61027",
+        "0xbcd669db60adeb92543ba88b333f2a059360108d": "66321949",
+        "0xbc1e065a04b9f3a1215f38a001fed2ae7be7834a": "521260",
+        "0x5a173642e34bc680ac3072c18e372a3f5d4c206f": "210",
+        "0x42c31b4ada1963b5235737901264a61a6920ce5d": "174",
+        "0x5dd7973478c2889adf860384889cf5e9f59ef6cd": "1151628",
+        "0x19d7a7086e3a96e0aa783e59594eff743eb12acf": "65576",
+        "0x95f76d8643b81644ffb044abe871e9e6baa73f49": "490270",
+        "0xc6a707017b8e7a252b2eae13d8018840413f254c": "8440",
+        "0xcf0a12cbd8088fc5f84ad431e71787157041cd69": "36198232",
+        "0x4e073511bfe70a33fe0dcd7e2e783ff043130667": "728381",
+        "0xad78662714cd0042b4c602a8e18d0e4a25cf79d7": "2724424",
+        "0xf7ae4ec5f1f5813fba503dd98fc42633faff6c2e": "119",
+        "0xef7e442643a8cdfffe5b240979d2beeadbbedba3": "1339561",
+        "0x6f0bbf84fd19fd1d6998bad09224dafcdca5c578": "5395676",
+        "0xb98b56c64796a42871b82506122c3caa7505af90": "69031774",
+        "0x1b648ade1ef219c87987cd60eba069a7faf1621f": "7612639",
+        "0xc853e78877c758cc43ad152726cb593f03d23030": "89",
+        "0x094b77e356f765f0c5fbfa2d8b2c372445ff2970": "245502",
+        "0x4d15f7f85a94045cec848d983ddc7f51288a9b1a": "57923",
+        "0x67e96abac805481fb01fefbec0d9c00c517f2a0e": "6205059",
+        "0x4dd8f75baffea1479fef4a71dc7e30e76a1030dd": "850813",
+        "0x8aedbc437794ddbadebe81e5f4c127d0038a93b0": "149100",
+        "0xdb5649b756525b9907c6d718637651fce2591b28": "992970",
+        "0xb758ee178889307fdc2139ccae910902b4febdd0": "29083",
+        "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33": "11735",
+        "0x991b10da496102f6260e8679f7202c8bfb89aa5e": "8724",
+        "0xa3b7226dea54ab25133e1e80fbf22adefa917ade": "1535751",
+        "0x7b73cb46154c8962070b4dc753859f26f0e8b180": "19",
+        "0x6d3da13b41e18dc7bd1c084de0034fbcb1fdbce8": "1",
+        "0xb312665792d45a3884e605e8b7626ad5b09d66a1": "195",
+        "0xe50e6c9a3366b4085aa021f0f6693d1f1f306b90": "183",
+        "0x88aad701c39aa2acd2cc170bc7c90750cfd36da1": "768873",
+        "0xa5704b9aa25e8945f581b8a85a7f9122a55bbc15": "14309229",
+        "0x7dcdb4ad4017f848879d17370aa6f32564e5cd08": "56905",
+        "0xebd6f9977652839075b22f04394f2b5cb97f188d": "50560",
+        "0x5435b8b0843206fa8fc99453a3112713e6f0fd46": "203980",
+        "0x674df3e219e56aa764939aed58a493ae41998220": "1316624"
+      },
+      "extInfo": {
+        "assetId": "143-0x9cbc42eff240ad2e43bbdc3c0562a9b4ce842a5a",
+        "position": "PT",
+        "source": {
+          "mode": "DYNAMIC_INCENTIVE"
+        }
+      }
+    },
+    {
+      "token": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "description": "Dynamic Incentive · 1 Oct 2026 06:00 → 8 Oct 2026 00:00 UTC (162 hours) · blocks 109,531,055 → 111,461,338 · total 625.3434 AUSD",
+      "fromTimestamp": 1790834446,
+      "toTimestamp": 1791417600,
+      "sumAmount": "625343481",
+      "users": {
+        "0x9f1a1479191af103ff82fead23e950b6b3b2bd1a": "188010455",
+        "0xbf1ddbe65fb6b585374d5140313429f310bafa87": "228",
+        "0x4eb7f19d6efcace59eaed70220da5002709f9b71": "37108",
+        "0x361042cb65a69efde49bf68ceca58e4f44d6ced1": "15994106",
+        "0xe304dc486b85559cd0d462e06ea33c00264eb413": "489197",
+        "0x596cdbb0d4b74cb5dcdf86613d8012e0cd3e522f": "4399883",
+        "0x5a173642e34bc680ac3072c18e372a3f5d4c206f": "32944",
+        "0xcf0a12cbd8088fc5f84ad431e71787157041cd69": "84271042",
+        "0xb9efca0457525768e93ae2258a0287ab8f53614e": "968206",
+        "0xf5ff310982d58ddc813c541a64b8c4f3f5035e58": "101835401",
+        "0x32c802780396169b10cbecdcc52edd97ce8f4dee": "41677857",
+        "0x1b648ade1ef219c87987cd60eba069a7faf1621f": "16045097",
+        "0xc78bc588e970501432b2583ec1b6d2f4509b3b55": "1801",
+        "0xc853e78877c758cc43ad152726cb593f03d23030": "181",
+        "0xdb5649b756525b9907c6d718637651fce2591b28": "2092956",
+        "0xb758ee178889307fdc2139ccae910902b4febdd0": "33129149",
+        "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33": "103309593",
+        "0x7b73cb46154c8962070b4dc753859f26f0e8b180": "44",
+        "0xa5704b9aa25e8945f581b8a85a7f9122a55bbc15": "29719912",
+        "0x7dcdb4ad4017f848879d17370aa6f32564e5cd08": "117728",
+        "0x5435b8b0843206fa8fc99453a3112713e6f0fd46": "464831",
+        "0xdda821f4eae19053aba8cb2982ad2f0ea38b5a8e": "1908",
+        "0x674df3e219e56aa764939aed58a493ae41998220": "2743854"
+      },
+      "extInfo": {
+        "assetId": "143-0x9cbc42eff240ad2e43bbdc3c0562a9b4ce842a5a",
+        "position": "YT",
+        "source": {
+          "mode": "DYNAMIC_INCENTIVE"
+        }
+      }
+    }
+  ]
+}
