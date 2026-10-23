@@ -1,0 +1,52 @@
+{
+  "chainId": 4663,
+  "merkleRoot": "0x0b48a4f86afdeacdf875330deac6d250b995418ff8f0a2f958a00220d3eb61e0",
+  "parentRoot": "0xb93e74b33ceb649eaa55058d81b8b29e2a2b9655378d275dce1dc5eb20770c16",
+  "distributions": [
+    {
+      "token": "0xe33322da1380e61e5ae5dfb21e7f62924c73004c",
+      "description": "Orbio Staking Reward (LP + YT) · 15 Oct 2026 00:00 → 22 Oct 2026 00:00 UTC (7 days) · blocks 88,778,339 → 94,682,491 · total 30.7646 CREDIT",
+      "fromTimestamp": 1792022400,
+      "toTimestamp": 1792627200,
+      "sumAmount": "30764691",
+      "users": {
+        "0xbf1ddbe65fb6b585374d5140313429f310bafa87": "615",
+        "0xbcab7ed9e912f88200c1572428a7bfcc463201dd": "755236",
+        "0xabe0cdd036456fcc1b64d1ddb7aa3bdf7d5b98b1": "23299079",
+        "0x0b8c677e3b73a2e7fb8d39b708aa39676fdbfc50": "9521",
+        "0x77819d746a876b523b0b41d942c1477f248f9137": "5162006",
+        "0xeea6f790f18563e91b18df00b89d9f79b2e6761f": "1538234"
+      },
+      "extInfo": {
+        "assetId": "4663-0x25ee3232421a08f390ef25a34b1d2ccc8394bd05",
+        "position": "YT",
+        "source": {
+          "mode": "LP_YT"
+        }
+      }
+    },
+    {
+      "token": "0xe33322da1380e61e5ae5dfb21e7f62924c73004c",
+      "description": "Orbio Staking Reward (LP + YT) · 15 Oct 2026 00:00 → 22 Oct 2026 00:00 UTC (7 days) · blocks 88,778,339 → 94,682,491 · total 14.1797 CREDIT",
+      "fromTimestamp": 1792022400,
+      "toTimestamp": 1792627200,
+      "sumAmount": "14179778",
+      "users": {
+        "0xbf1ddbe65fb6b585374d5140313429f310bafa87": "344",
+        "0xbcab7ed9e912f88200c1572428a7bfcc463201dd": "420851",
+        "0xabe0cdd036456fcc1b64d1ddb7aa3bdf7d5b98b1": "12983226",
+        "0x0b8c677e3b73a2e7fb8d39b708aa39676fdbfc50": "5611",
+        "0x0000000000000000000000000000000000000001": "0",
+        "0x869191325254a82fbc858ab3cad9bf91703da353": "31904",
+        "0x0d3131ec2622dd01771b5980d9501424a1b6d3bd": "737842"
+      },
+      "extInfo": {
+        "assetId": "4663-0x25ee3232421a08f390ef25a34b1d2ccc8394bd05",
+        "position": "LP",
+        "source": {
+          "mode": "LP_YT"
+        }
+      }
+    }
+  ]
+}
