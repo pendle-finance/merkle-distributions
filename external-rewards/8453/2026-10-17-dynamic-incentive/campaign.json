@@ -1,0 +1,120 @@
+{
+  "chainId": 8453,
+  "merkleRoot": "0x7b6030c1a47a7d21327b9e78f1a55b0022a7b216b36f599f65b7f22a2b2f2631",
+  "parentRoot": "0xe8dbb6665828f7604bc4a8e4e69b9a9216aeed9d649e5b3664cb3bfc1b4493d9",
+  "distributions": [
+    {
+      "token": "0x2c71f70e2ec720ae061ae7e0316fc9654d94f417",
+      "description": "Dynamic Incentive · 12 Oct 2026 00:05 → 15 Oct 2026 00:00 UTC (71.9 hours) · blocks 52,487,091 → 52,616,526 · total 37.4833 sUP",
+      "fromTimestamp": 1791763539,
+      "toTimestamp": 1792022400,
+      "sumAmount": "37483389225161262268",
+      "users": {
+        "0xceefc019b987bc06f2609563f8342b8e7c6069a1": "24282060470497460667",
+        "0xfd5917a1a157eff54decb755cf5c5709bbe44200": "1096096177893478",
+        "0x7a73a3612e003e2cb9f0f02b1e021bb4a352437a": "424360138452401415",
+        "0x6c0a954a295c41fc95fe990e2aa8afbaea5c8f81": "2253170617676605384",
+        "0xb2043c543bb60fb7aa7265cdca359a35c4bc09fa": "1468486592923091571",
+        "0xc8bf40263577a4d42c074bc060773e761a30709b": "1169988698850853118",
+        "0x60c7123561e96c1c8bffa4453bda5057a601fc42": "294654954360621790",
+        "0x8ccaf951c46899aa11e96435261c271c3e5ba963": "3547904027396031542",
+        "0x884f18e3572cd95cd3c419fe14110a44eeba1f44": "95691666294720283",
+        "0x4282341588f94c158bfaa40ae2c9f3abfdac647f": "17414082415301778",
+        "0xec6a147434878967d0a8db246797df60f730a034": "122845465831901187",
+        "0xe8b56c2414d3537a81ba7aa13edad95dcdd5ed22": "227317991326919624",
+        "0xe00d8d8c51141afcc80f30a971743a80459cb6b5": "162752573819343102",
+        "0x9c514bc7fc73c84e6bc6596afb7dce23d683ba4b": "3055522322766309045",
+        "0xe615784eb53bc634a64e5cde34c816cd64963301": "24137820465813008",
+        "0x5fd41ece257465e201398dd97acc444f4fa70260": "11926293773217680",
+        "0x43d68364bf090c2fcb6735b1e377a52db23c25b3": "120721978974403531",
+        "0xdd1fcdd7232bd9547b02ada8de664896f20f8fe1": "28010463159893873",
+        "0xdc3032d8b921cd2944cce984df177c2aafdd86f1": "89508559822616932",
+        "0x936793f40c914358ae16fb3db717c6fde5bcd3d4": "85818410175863260"
+      },
+      "extInfo": {
+        "assetId": "8453-0xadb822593f62752a15edefe9a31e1e9e05dcc13d",
+        "position": "PT",
+        "source": {
+          "mode": "DYNAMIC_INCENTIVE"
+        }
+      }
+    },
+    {
+      "token": "0x2c71f70e2ec720ae061ae7e0316fc9654d94f417",
+      "description": "Dynamic Incentive · 12 Oct 2026 00:05 → 15 Oct 2026 00:00 UTC (71.9 hours) · blocks 52,487,091 → 52,616,526 · total 5.4063 sUP",
+      "fromTimestamp": 1791763539,
+      "toTimestamp": 1792022400,
+      "sumAmount": "5406343114807064680",
+      "users": {
+        "0xceefc019b987bc06f2609563f8342b8e7c6069a1": "4230721418427905311",
+        "0xfd5917a1a157eff54decb755cf5c5709bbe44200": "190975456154717",
+        "0x29351fca3d047ce142d366ac17a2a6829903c654": "162521187621683496",
+        "0x7a73a3612e003e2cb9f0f02b1e021bb4a352437a": "35147765161487635",
+        "0x025e545e693cfeb629bb5b7be72fea50fa772774": "242577244453389818",
+        "0x8ccaf951c46899aa11e96435261c271c3e5ba963": "181154872982852838",
+        "0x2e1531c10054b22d2564e020dc3a95dcc0d940cc": "1395248146368366",
+        "0xbaba9ca14d89ce59374989efd661c2397bea27f6": "700509648047758",
+        "0x0d839f02b04824894df022c7fece625b9f9e6a49": "547267721197331786",
+        "0xdd1fcdd7232bd9547b02ada8de664896f20f8fe1": "4666171711842955"
+      },
+      "extInfo": {
+        "assetId": "8453-0xadb822593f62752a15edefe9a31e1e9e05dcc13d",
+        "position": "YT",
+        "source": {
+          "mode": "DYNAMIC_INCENTIVE"
+        }
+      }
+    },
+    {
+      "token": "0x2c71f70e2ec720ae061ae7e0316fc9654d94f417",
+      "description": "Dynamic Incentive · 10 Oct 2026 14:05 → 15 Oct 2026 00:00 UTC (105.9 hours) · blocks 52,425,899 → 52,616,526 · total 41.4167 sUP",
+      "fromTimestamp": 1791641153,
+      "toTimestamp": 1792022400,
+      "sumAmount": "41416741417164999545",
+      "users": {
+        "0xceefc019b987bc06f2609563f8342b8e7c6069a1": "34325386396058654175",
+        "0xfd5917a1a157eff54decb755cf5c5709bbe44200": "2555226354205440",
+        "0x7a73a3612e003e2cb9f0f02b1e021bb4a352437a": "333937895576411621",
+        "0xfd880d23fa7755fcac906329d6f2a80f6243a3b0": "121201589880846096",
+        "0xc8bf40263577a4d42c074bc060773e761a30709b": "1139701998034157344",
+        "0x8ccaf951c46899aa11e96435261c271c3e5ba963": "5323382241391515851",
+        "0x176bcdc049ea8a7e7bfa0b11f27d65f9c1c61406": "88064031885099",
+        "0x983601f85a8f842b549110d4349a5fc3fdef4360": "56494355506825435",
+        "0x5fd41ece257465e201398dd97acc444f4fa70260": "2609666509761030",
+        "0xdd1fcdd7232bd9547b02ada8de664896f20f8fe1": "19474053723071731",
+        "0x0b82a6e48af7e91cb690948273f7b63072071fbf": "91909930097665723"
+      },
+      "extInfo": {
+        "assetId": "8453-0xb06e7781ad4d205c67368fd01bf817977cfdecbe",
+        "position": "PT",
+        "source": {
+          "mode": "DYNAMIC_INCENTIVE"
+        }
+      }
+    },
+    {
+      "token": "0x2c71f70e2ec720ae061ae7e0316fc9654d94f417",
+      "description": "Dynamic Incentive · 10 Oct 2026 14:05 → 15 Oct 2026 00:00 UTC (105.9 hours) · blocks 52,425,899 → 52,616,526 · total 5.9844 sUP",
+      "fromTimestamp": 1791641153,
+      "toTimestamp": 1792022400,
+      "sumAmount": "5984413483504476130",
+      "users": {
+        "0xceefc019b987bc06f2609563f8342b8e7c6069a1": "5048880717509904477",
+        "0xfd5917a1a157eff54decb755cf5c5709bbe44200": "375845239309386",
+        "0x499815abe7396ce32fc6250db9ec9409fef10de1": "33841716859704974",
+        "0x29351fca3d047ce142d366ac17a2a6829903c654": "300334392387933998",
+        "0x7a73a3612e003e2cb9f0f02b1e021bb4a352437a": "118217222329625655",
+        "0x8ccaf951c46899aa11e96435261c271c3e5ba963": "456347329583688685",
+        "0x2e1531c10054b22d2564e020dc3a95dcc0d940cc": "23270260696601004",
+        "0xdd1fcdd7232bd9547b02ada8de664896f20f8fe1": "3145998897707951"
+      },
+      "extInfo": {
+        "assetId": "8453-0xb06e7781ad4d205c67368fd01bf817977cfdecbe",
+        "position": "YT",
+        "source": {
+          "mode": "DYNAMIC_INCENTIVE"
+        }
+      }
+    }
+  ]
+}
