@@ -1,0 +1,51 @@
+{
+  "chainId": 4663,
+  "merkleRoot": "0xb93e74b33ceb649eaa55058d81b8b29e2a2b9655378d275dce1dc5eb20770c16",
+  "parentRoot": "0x1f54e13ba15cab75ab87ae0e54af41a8e122fd0c2419dcc77a233736484b6669",
+  "distributions": [
+    {
+      "token": "0xe33322da1380e61e5ae5dfb21e7f62924c73004c",
+      "description": "Orbio Staking Reward (LP + YT) · 8 Oct 2026 00:00 → 15 Oct 2026 00:00 UTC (7 days) · blocks 82,878,151 → 88,778,339 · total 28.2735 CREDIT",
+      "fromTimestamp": 1791417600,
+      "toTimestamp": 1792022400,
+      "sumAmount": "28273549",
+      "users": {
+        "0xbf1ddbe65fb6b585374d5140313429f310bafa87": "714",
+        "0xbcab7ed9e912f88200c1572428a7bfcc463201dd": "876641",
+        "0xabe0cdd036456fcc1b64d1ddb7aa3bdf7d5b98b1": "25972558",
+        "0x0b8c677e3b73a2e7fb8d39b708aa39676fdbfc50": "9959",
+        "0xeea6f790f18563e91b18df00b89d9f79b2e6761f": "1413677"
+      },
+      "extInfo": {
+        "assetId": "4663-0x25ee3232421a08f390ef25a34b1d2ccc8394bd05",
+        "position": "YT",
+        "source": {
+          "mode": "LP_YT"
+        }
+      }
+    },
+    {
+      "token": "0xe33322da1380e61e5ae5dfb21e7f62924c73004c",
+      "description": "Orbio Staking Reward (LP + YT) · 8 Oct 2026 00:00 → 15 Oct 2026 00:00 UTC (7 days) · blocks 82,878,151 → 88,778,339 · total 15.7079 CREDIT",
+      "fromTimestamp": 1791417600,
+      "toTimestamp": 1792022400,
+      "sumAmount": "15707955",
+      "users": {
+        "0xbf1ddbe65fb6b585374d5140313429f310bafa87": "395",
+        "0xbcab7ed9e912f88200c1572428a7bfcc463201dd": "484196",
+        "0xabe0cdd036456fcc1b64d1ddb7aa3bdf7d5b98b1": "14401160",
+        "0x0b8c677e3b73a2e7fb8d39b708aa39676fdbfc50": "5870",
+        "0x0000000000000000000000000000000000000001": "0",
+        "0x869191325254a82fbc858ab3cad9bf91703da353": "34070",
+        "0x0d3131ec2622dd01771b5980d9501424a1b6d3bd": "782264"
+      },
+      "extInfo": {
+        "assetId": "4663-0x25ee3232421a08f390ef25a34b1d2ccc8394bd05",
+        "position": "LP",
+        "source": {
+          "mode": "LP_YT"
+        }
+      }
+    }
+  ]
+}
